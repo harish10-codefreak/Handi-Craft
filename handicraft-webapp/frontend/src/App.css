@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  header, footer {
+    background-color: #f8f8f8;
+    padding: 1em;
+  }
+  
+  header h1, footer p {
+    margin: 0;
+  }
+  
